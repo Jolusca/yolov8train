@@ -1,0 +1,12 @@
+# Caminho raiz absoluto (o diretório que contém as pastas train e val)
+path: /home/lucas/git/yolov8train
+
+# Pastas relativas dentro do caminho definido acima
+train: train/images
+val: val/images
+
+# Número de classes (apenas 1 pois é somente rosto)
+nc: 1
+
+# Nome da classe
+names: ['face']
