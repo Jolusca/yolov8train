@@ -3,7 +3,7 @@ venv/
 env/
 
 # Resultados do treino e logs
-runs/
+
 
 # Arquivos de pesos do modelo
 *.pt
