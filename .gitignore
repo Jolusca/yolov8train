@@ -1,0 +1,19 @@
+# Ambientes virtuais
+venv/
+env/
+
+# Resultados do treino e logs
+runs/
+
+# Arquivos de pesos do modelo
+*.pt
+*.caffemodel
+
+# Arquivos temporários do Windows e Python
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Dataset original (caso seja muito pesado)
+dataset_original/

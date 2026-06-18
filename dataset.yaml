@@ -1,5 +1,5 @@
 # Caminho raiz absoluto (o diretório que contém as pastas train e val)
-path: /home/lucas/git/yolov8train
+path: C:\Git\yolov8train
 
 # Pastas relativas dentro do caminho definido acima
 train: train/images
